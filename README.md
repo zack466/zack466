@@ -2,9 +2,9 @@
 
 I'm Zack, and I'm currently studying computer science at [Caltech](https://www.caltech.edu/). Check out my personal website at [zwhuang.dev](https://zwhuang.dev)!
 
-- :seedling: I'm currently learning: operating systems, machine learning, and robotics
-- :zap: I'm interested in: functional programming, compilers, and computer graphics
-- :eyes: Ask me about: [neovim](https://neovim.io/), programming languages
+- :seedling: I'm currently learning: compilers, machine learning, and digital design
+- :zap: I'm interested in: functional programming, programming languages, and embedded systems
+- :eyes: Ask me about: [neovim](https://neovim.io/), [Common Lisp](https://lisp-lang.org/)
 - :frog: Fun fact: the best font for coding is actually [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 
 > “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
