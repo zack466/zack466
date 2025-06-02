@@ -6,7 +6,7 @@ I'm Zack, and I'm currently studying computer science at [Caltech](https://www.c
 - :zap: I'm interested in: functional programming, programming languages, and embedded systems
 - :eyes: Ask me about: [neovim](https://neovim.io/), [Common Lisp](https://lisp-lang.org/)
 - :frog: Fun fact: the best font for coding is actually [Comic Mono](https://dtinth.github.io/comic-mono-font/)
-- :monkey_face: Top 1% on [monkeytype](https://monkeytype.com/profile/zack466) (no steno)
+- :monkey_face: [Top 1%](https://monkeytype.com/profile/zack466) on [monkeytype](https://monkeytype.com/) (no steno)
 
 > “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
 > 
